@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Python+%26+SQL;Automation+%26+Bots&center=true&width=300&height=50&color=61DAFB&size=24&vCenter=true&font=Fira+Code&duration=3000&pause=1000&vCenter=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Python+SQL;Automation+%26+Bots&center=true&width=300&height=50&color=61DAFB&size=24&vCenter=true&font=Fira+Code&duration=3000&pause=1000&vCenter=true)
 
 ## MY SKILLS ^_^
 
