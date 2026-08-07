@@ -3,4 +3,4 @@
 
 ![Top Langs](https://github-readme-stats-six-theta-39.vercel.app/api/top-langs/?username=fizevizl&layout=compact&theme=aura&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats-six-theta-39.vercel.app/api?username=fizevizl&show_icons=true&theme=aura&hide_border=true&show_icons=true&card_width=300&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-six-theta-39.vercel.app/api?username=fizevizl&show_icons=true&theme=aura&hide_border=true&hide_rank=true&show_icons=true&card_width=300&include_all_commits=true&count_private=true)
