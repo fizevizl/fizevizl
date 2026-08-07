@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Python+%26+SQL;Automation+%26+Bots&center=true&width=500&color=61DAFB&vCenter=true&size=24&duration=1&repeat=true&deletionSpeed=1)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Python+%26+SQL;Automation+%26+Bots&center=true&width=500&color=61DAFB&vCenter=true&size=24&duration=5&deletionSpeed=5&repeat=true)
 
 ## MY SKILLS ^_^
 
