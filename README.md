@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Python+SQL;Automation+%26+Bots&center=true&width=300&height=50&color=61DAFB&size=24&vCenter=true&font=Fira+Code&duration=3000&pause=1000&vCenter=true)
-
-## MY SKILLS ^_^
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&size=30&duration=3000&pause=500&color=52B3A7&vCenter=true&width=435&lines=Backend+Developer;Python+%2B+SQL;Automation+and+Bots)](https://git.io/typing-svg)
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,html,flask,docker,regex,ts,bots,github,vscode,obsidian&theme=dark" alt="My Skills" />
 
